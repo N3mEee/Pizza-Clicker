@@ -1,22 +1,23 @@
 {
   "skins": [
     {
-      "1": "https://i.imgur.com/cUtcFFo.png"
+      "id": 1
+      "url": "https://i.imgur.com/cUtcFFo.png"
     },
-    {
-      "2": "https://i.imgur.com/AI711EJ.png"
+    {"id": 2,
+      "url": "https://i.imgur.com/AI711EJ.png"
     },
-    {
-      "3": "https://i.imgur.com/9XgUoAH.png"
+    {"id": 3,
+      "url": "https://i.imgur.com/9XgUoAH.png"
     },
-    {
-      "4": "https://i.imgur.com/9nngIOa.png"
+    {"id": 4,
+      "url": "https://i.imgur.com/9nngIOa.png"
     },
-    {
-      "5": "https://i.imgur.com/2koq8Zu.gif"
+    {"id": 5,
+      "url": "https://i.imgur.com/2koq8Zu.gif"
     },
-    {
-      "6": "https://i.imgur.com/dUcC3ea.gif"
+    {"id": 6,
+      "url": "https://i.imgur.com/dUcC3ea.gif"
     }
   ]
 }
